@@ -9,7 +9,7 @@ PluraJS è una libreria JavaScript progettata per semplificare lo sviluppo di ap
 import { PluraJS } from "plurajs";
 ```
     
-```js
+```html
 <script type="module">
     import { PluraJS } from "https://pluraservice.github.io/Plura-JS/source/dist/PluraJS.cjs.js";
 </script>
