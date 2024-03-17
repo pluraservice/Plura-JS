@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a2 as n}from"./chunks/framework.Bx6qu0xe.js";const F=JSON.parse('{"title":"Plura JS | Installation","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),l={name:"index.md"},h=n("",10),k=[h];function p(t,e,r,E,g,d){return a(),i("div",null,k)}const o=s(l,[["render",p]]);export{F as __pageData,o as default};
